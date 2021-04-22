@@ -15,4 +15,4 @@ This three week long bootcamp is designed to take you from little/no computation
 - Perform a simple differential expression analysis on RNAseq data
 - Submit jobs to a supercomputer
 
-###To apply, simply send 
+From July 5th to July 27th we will meet from 9-5 (two three hour sessions with break for lunch) Monday through Friday. The bootcamp will culminate in the INBRE Summer Research Symposium held on July 27th.
