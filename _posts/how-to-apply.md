@@ -6,7 +6,7 @@ thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 ---
 
-If you are interested in participating in the workshop this summer please submit the following items:
+If you are interested in participating in the workshop this summer please submit the following items to wvinbre.summerbootcamp@gmail.com:
 
 Personal Essay: A description of how this bootcamp would impact your education or further you long-term career goals. Why do you want to attend and what do you hope to get out of the workshop? Please send a one page or less document in .docx or pdf format.
 
