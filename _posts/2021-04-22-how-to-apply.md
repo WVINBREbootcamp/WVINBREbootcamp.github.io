@@ -1,9 +1,6 @@
 ---
 layout: post
 title: How to Apply
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
 ---
 
 If you are interested in participating in the workshop this summer please submit the following items to wvinbre.summerbootcamp@gmail.com:
