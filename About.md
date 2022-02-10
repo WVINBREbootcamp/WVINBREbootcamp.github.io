@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-subtitle: A comprehensive introductory bootcamp for biology undergraduates.
+subtitle: A comprehensive introductory bootcamp for undergraduates.
 ---
 
 This four week long bootcamp is designed to take you from little/no computational experience to bioinformatic literacy. At the end of this course you will:
