@@ -14,5 +14,5 @@ Send a pdf version of your college transcripts (official or unofficial).
 ### CV/Resume:
 Also attach a .docx or .pdf of your curriculum vitae (or resume) with the rest of your application package.
 
-A WV-INBRE Bootcamp organizer will contact you by April 30th regarding your application status!
+A WV-INBRE Bootcamp organizer will contact you by April 15th regarding your application status!
 
