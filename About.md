@@ -4,7 +4,7 @@ title: About
 subtitle: A comprehensive introductory bootcamp for undergraduates.
 ---
 
-This four week long bootcamp is designed to take you from little/no computational experience to bioinformatic literacy. At the end of this course you will:
+This four week long bootcamp is designed to take you from little/no computational experience to bioinformatic literacy. This is a paid opportunity open to any students currently enrolled in a WV-INBRE network institution. Housing at Marshall University will be provided for the duration of the camp. At the end of this course you will:
 
 - Navigate the Linux operating system and the command line interface (CLI)
 - Write BASH and Python scripts
