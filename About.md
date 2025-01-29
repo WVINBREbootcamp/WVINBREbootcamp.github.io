@@ -15,4 +15,4 @@ This four week long bootcamp is designed to take you from little/no computationa
 - Perform a simple differential expression analysis on RNAseq data
 - Submit jobs to a supercomputer
 
-From June 3th to June 28th, we will meet from 9-5 (two three hour sessions with break for lunch) Monday through Friday. The bootcamp will culminate in poster presentations of individual projects at the INBRE Summer Research Symposium near the end of July 2024.
+From June 2nd to June 27th, we will meet from 9-5 (two three hour sessions with break for lunch) Monday through Friday. The bootcamp will culminate in poster presentations of individual projects at the INBRE Summer Research Symposium near the end of July 2025.
